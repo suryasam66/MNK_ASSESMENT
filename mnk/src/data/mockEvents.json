@@ -1,0 +1,15 @@
+[
+    { "id": 1, "title": "Mumbai Concert", "description": "Live concert by The Box", "category": "Music", "date": "2024-11-12", "availableSeats": 50, "price": 2000 },
+    { "id": 2, "title": "Kolkata Concert", "description": "Live concert by Weekend", "category": "Music", "date": "2024-11-12", "availableSeats": 40, "price": 2000 },
+    { "id": 3, "title": "Delhi Concert", "description": "Live concert by AS", "category": "Music", "date": "2024-11-12", "availableSeats": 59, "price": 5620 },
+    { "id": 4, "title": "Noida Concert", "description": "Live concert by Prithibi", "category": "Music", "date": "2024-11-12", "availableSeats": 20, "price": 78820 },
+    { "id": 5, "title": "Python Workshop", "description": "python uses in AI", "category": "Workshop", "date": "2024-11-15", "availableSeats": 30, "price": 1500 },
+    { "id": 6, "title": "React Workshop", "description": "React native and React", "category": "Workshop", "date": "2024-11-15", "availableSeats": 50, "price": 67715 },
+    { "id": 7, "title": "Spring Workshop", "description": "Backend with Spring ", "category": "Workshop", "date": "2024-11-15", "availableSeats": 30, "price": 1005 },
+    { "id": 8, "title": "AI Workshop", "description": "Ai basics by Sam Altman", "category": "Workshop", "date": "2024-11-15", "availableSeats": 0, "price": 1500 },
+    { "id": 9, "title": "Modern Art Exhibition", "description": "Modern art display", "category": "Art", "date": "2024-12-05", "availableSeats": 0, "price": 2500 },
+    { "id": 10, "title": "Classical Art Exhibition", "description": "Classical art display", "category": "Art", "date": "2024-12-05", "availableSeats": 40, "price": 7025 },
+    { "id": 11, "title": "Indian Art Exhibition", "description": "Dive into art display", "category": "Art", "date": "2024-12-05", "availableSeats": 0, "price": 8025 },
+    { "id": 12, "title": "Italian Art Exhibition", "description": "Italic  display", "category": "Art", "date": "2024-12-05", "availableSeats": 50, "price": 78925 }
+  ]
+  

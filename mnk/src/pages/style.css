@@ -1,0 +1,38 @@
+.home-main-container{
+    background-color: aliceblue;
+    align-items: center;
+    margin-top: -100px;
+    margin: 0;
+}
+
+h1{
+    font-size: 5rem;
+    font-weight: 400;
+    color: rgb(0, 33, 123);
+    text-shadow: 0 4px 8px rgba(0,9,9,0.5);;
+}
+.event-details-view-page{
+    height: 300px;
+    width: 340px;
+    
+    text-shadow: 0 4px 8px rgba(0,9,9,0.5);;
+    box-shadow: 0 4px 8px rgba(0,9,9,0.5);;
+    
+    border: 6px;
+    padding: 20px;
+    padding-top: 30px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn-book{
+    height: 35px;
+    width: 300px;
+    background-color: blue;
+    border: none;
+   color: white;
+   font-weight: 600;
+}

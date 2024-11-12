@@ -1,0 +1,25 @@
+.event-item-main{
+  height: 300px;
+  width: 400px;
+   background-color: rgb(186, 255, 229);
+  
+   margin-left: 10px;
+   border-radius: 6px;
+   box-shadow: 0 4px 8px rgba(0,9,9,0.5);
+}
+.stored-main{
+    display: flex;
+    margin-top: 30px;
+}
+#search{
+  border: none;
+  background: transparent;
+  border-bottom: 2px solid black;
+  margin-right: 20px;
+}
+#select-content{
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+    margin-right: 20px;
+}
